@@ -83,6 +83,9 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+
+<br/>
+
 <div align="center">
 Thanks for visiting! If you like my work, consider ⭐️ my repositories — it keeps me motivated. 
 </div>
