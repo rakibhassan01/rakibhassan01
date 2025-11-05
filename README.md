@@ -6,7 +6,7 @@
 <div align="right">
 
 ![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
-[![GitHub](https://img.shields.io/github/followers/rakibcoding?label=follow&style=social)](https://github.com/rakibcoding)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/rakibhassan01?label=follow&style=social)](https://github.com/rakibhassan01)&nbsp;
 </div>
 
 ### About Me
@@ -20,7 +20,7 @@
 ### 📫 Reach me out :
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:rakibcoding@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibcoding/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibhassan01/)
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
 
@@ -46,7 +46,7 @@
 <br/>
 
 <p align="center">
- <img  width="80%"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=rakibcoding&theme=algolia&card_width=800" alt="RHB"/>
+ <img  width="80%"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=rakibhassan01&theme=algolia&card_width=800" alt="RHB"/>
 
 
 </p>
@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcoding&layout=compact&theme=dark"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhassan01&layout=compact&theme=dark"/>
 </p>
 
 #
@@ -81,7 +81,7 @@
 </summary>
 <br />
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibcoding&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhassan01&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <br/>
@@ -90,5 +90,6 @@
 Thanks for visiting! If you like my work, consider ⭐️ my repositories — it keeps me motivated. 
 </div>
 
+![profile count](https://komarev.com/ghpvc/?username=rakibhassan01&color=blue)&nbsp;
 <!--Footer--> 
 ![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff)
